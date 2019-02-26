@@ -1,0 +1,6 @@
+2018-06-25 08:36:09 INFO logger.py:126 Log level: INFO
+2018-06-25 08:36:09 INFO main.py:259 GNS3 GUI version 2.1.8
+2018-06-25 08:36:09 INFO main.py:260 Copyright (c) 2007-2018 GNS3 Technologies Inc.
+2018-06-25 08:36:09 INFO main.py:262 Application started with /usr/bin/gns3
+2018-06-25 08:37:24 WARNING __init__.py:564 Sorry, you cannot install OpenWrt with missing files
+2018-06-25 08:37:27 WARNING __init__.py:393 The file is compressed with gzip you need to uncompress it before using it.

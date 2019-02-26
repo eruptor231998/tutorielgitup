@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox-esr.desktop" open-window-count="4" score="146" last-seen="1551174130"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="1" score="2" last-seen="1551174018"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="19055.5" last-seen="1551174121"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="7" last-seen="1551174038"/>
+    <application id="eclipse.desktop" open-window-count="1" score="12" last-seen="1551174071"/>
+  </context>
+</application-state>

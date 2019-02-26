@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/dsiun/CORSAIR/Debian-pedago/install-conf-debian.txt" added="2018-06-22T12:56:19Z" modified="2018-07-18T12:01:08Z" visited="2018-06-22T12:56:19Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;gedit %U&apos;" modified="2018-07-18T10:12:48Z" count="6"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-07-18T12:01:08Z" count="52"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dsiun/CORSAIR/GNS3.png" added="2018-06-25T06:24:59Z" modified="2018-06-25T14:00:48Z" visited="2018-06-25T06:24:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-06-25T06:24:59Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-25T14:00:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/nohotcorner@azuri.free.fr.v17.shell-extension.zip" added="2018-06-25T06:56:01Z" modified="2018-06-25T06:56:34Z" visited="2018-06-25T06:56:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T06:56:01Z" count="1"/>
+          <bookmark:application name="Outil de personnalisation de GNOME" exec="&apos;gnome-tweak-tool %u&apos;" modified="2018-06-25T06:56:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/simple-name@rmariano.github.com.v6.shell-extension.zip" added="2018-06-25T06:56:24Z" modified="2018-06-25T07:03:47Z" visited="2018-06-25T06:56:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T06:56:24Z" count="1"/>
+          <bookmark:application name="Outil de personnalisation de GNOME" exec="&apos;gnome-tweak-tool %u&apos;" modified="2018-06-25T07:03:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dsiun/CORSAIR/Debian-admin/ldap-client-cache.txt" added="2018-06-25T07:42:06Z" modified="2018-06-25T08:10:18Z" visited="2018-06-25T07:42:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-06-25T08:10:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dsiun/CORSAIR/Debian-admin/conf.txt" added="2018-06-25T08:08:49Z" modified="2018-07-18T12:01:00Z" visited="2018-06-25T08:08:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-07-18T12:01:00Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dsiun/CORSAIR/Win10-pedago/Install_conf_Win10.txt" added="2018-06-25T09:01:30Z" modified="2018-06-25T09:01:30Z" visited="2018-06-25T09:01:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-06-25T09:01:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/eclipse-inst-linux64.tar.gz" added="2018-06-25T09:16:37Z" modified="2018-06-25T09:56:31Z" visited="2018-06-25T09:16:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T09:56:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/eclipse-jee-oxygen-3a-linux-gtk-x86_64.tar.gz" added="2018-06-25T10:23:06Z" modified="2018-06-25T10:23:06Z" visited="2018-06-25T10:23:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T10:23:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/eclipse-jee-oxygen-3a-linux-gtk-x86_64(1).tar.gz" added="2018-06-25T11:54:21Z" modified="2018-06-25T11:54:21Z" visited="2018-06-25T11:54:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T11:54:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/OpenShot-v2.4.1-x86_64.AppImage" added="2018-06-25T12:08:39Z" modified="2018-06-25T12:10:53Z" visited="2018-06-25T12:08:39Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-iso9660-appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T12:08:39Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2018-06-25T12:10:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/marionnet_from_scratch" added="2018-06-25T12:55:16Z" modified="2018-06-25T12:55:16Z" visited="2018-06-25T12:55:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T12:55:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/android-studio-ide-173.4819257-linux.zip" added="2018-06-25T13:32:23Z" modified="2018-06-25T13:32:23Z" visited="2018-06-25T13:32:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-25T13:32:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/dsiun/CORSAIR/Utilitaires%20-%20logiciels/PowerShell/authorized_keys" added="2018-06-25T14:01:04Z" modified="2018-06-25T14:01:04Z" visited="2018-06-25T14:01:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-06-25T14:01:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/Images/pc-bureau-wallpaper.jpg" added="2018-06-26T06:19:04Z" modified="2018-06-26T06:19:04Z" visited="2018-06-26T06:19:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-26T06:19:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/pc-bureau-wallpaper.png" added="2018-06-26T06:19:14Z" modified="2018-06-26T06:19:14Z" visited="2018-06-26T06:19:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-26T06:19:14Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/Loginized_0.2.5_x64.deb" added="2018-06-26T06:26:06Z" modified="2018-06-26T06:26:06Z" visited="2018-06-26T06:26:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-06-26T06:26:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/Images/pc-bureau-wallpaper.png" added="2018-06-26T06:30:21Z" modified="2018-06-26T06:30:21Z" visited="2018-06-26T06:30:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Loginized" exec="&apos;Loginized %u&apos;" modified="2018-06-26T06:30:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/toto.svg" added="2018-06-26T07:54:09Z" modified="2018-06-26T07:54:09Z" visited="2018-06-26T07:54:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-26T07:54:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/afert.svg" added="2018-06-26T08:03:06Z" modified="2018-06-26T08:22:11Z" visited="2018-06-26T08:03:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-26T08:22:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/avant.svg" added="2018-06-26T08:03:09Z" modified="2018-06-26T08:03:09Z" visited="2018-06-26T08:03:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-26T08:03:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/no-net-man.svg" added="2018-06-26T08:21:49Z" modified="2018-06-26T08:21:49Z" visited="2018-06-26T08:21:49Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-26T08:21:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/no-exim.svg" added="2018-06-26T08:33:05Z" modified="2018-06-26T08:33:05Z" visited="2018-06-26T08:33:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-06-26T08:33:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/dsiun/T%C3%A9l%C3%A9chargements/AnalyseSI-0.80.jar" added="2018-07-18T09:02:37Z" modified="2018-07-18T09:47:57Z" visited="2018-07-18T09:02:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-07-18T09:02:37Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2018-07-18T09:09:11Z" count="3"/>
+          <bookmark:application name="nautilus" exec="&apos;java -jar %f&apos;" modified="2018-07-18T09:47:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ireguig/T%C3%A9l%C3%A9chargements/tuto_git.zip" added="2019-02-26T09:29:20Z" modified="2019-02-26T09:29:20Z" visited="2019-02-26T09:29:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-02-26T09:29:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ireguig/T%C3%A9l%C3%A9chargements/tuto_git_FR.zip" added="2019-02-26T09:37:32Z" modified="2019-02-26T09:37:39Z" visited="2019-02-26T09:37:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-02-26T09:37:32Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-02-26T09:37:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ireguig/T%C3%A9l%C3%A9chargements" added="2019-02-26T09:37:46Z" modified="2019-02-26T09:37:46Z" visited="2019-02-26T09:37:46Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Gestionnaire d&apos;archives" exec="&apos;file-roller %u&apos;" modified="2019-02-26T09:37:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ireguig/Documents" added="2019-02-26T09:38:25Z" modified="2019-02-26T09:38:25Z" visited="2019-02-26T09:38:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Eclipse" exec="&apos;Eclipse %u&apos;" modified="2019-02-26T09:38:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/ireguig/.gitignore" added="2019-02-26T09:46:08Z" modified="2019-02-26T09:46:21Z" visited="2019-02-26T09:46:08Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-02-26T09:46:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
